@@ -1,4 +1,5 @@
 This is a fork of [Ulauncher-System](https://github.com/iboyperson/ulauncher-system)!
+Now XFCE suspends, hibernates, reboots, ... with --fast -> Session isn't saved
 
 # Original README.md:
 
