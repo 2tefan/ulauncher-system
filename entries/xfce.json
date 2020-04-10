@@ -3,18 +3,18 @@
         "command": "xflock4"
     },
     "log-out": {
-        "command": "xfce4-session-logout --logout"
+        "command": "xfce4-session-logout --logout --fast"
     },
     "suspend": {
-        "command": "xfce4-session-logout --suspend"
+        "command": "xfce4-session-logout --suspend --fast"
     },
     "hibernate": {
-        "command": "xfce4-session-logout --hibernate"
+        "command": "xfce4-session-logout --hibernate --fast"
     },
     "restart": {
-        "command": "xfce4-session-logout --reboot"
+        "command": "xfce4-session-logout --reboot --fast"
     },
     "shutdown": {
-        "command": "xfce4-session-logout --halt"
+        "command": "xfce4-session-logout --halt --fast"
     }
 }
